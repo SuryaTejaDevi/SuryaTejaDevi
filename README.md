@@ -14,9 +14,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuryaTejaDevi&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
+
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=SuryaTejaDevi&theme=dark&hide_border=false" />
