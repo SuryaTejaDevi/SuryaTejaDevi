@@ -1,9 +1,12 @@
 # 💫 About Me:
 👨‍💻 I’m currently working on<br>Cybersecurity-focused projects, bug bounty reconnaissance tools, and full-stack web applications.<br><br>🤝 I’m looking to collaborate on<br>Open-source security tools, web applications, and real-world problem-solving projects.<br><br>🧠 I’m looking for help with<br>Advanced bug bounty techniques, system design, and scalable backend architectures.<br><br>🌱 I’m currently learning<br>Java Full-Stack Development, React, secure system design.<br>💬 Ask me about<br>Cybersecurity, bug bounty hunting, Java, web development, and project building.<br><br>⚡ Fun fact<br>I enjoy breaking systems ethically to understand how to build them stronger.<br>
 
-## 🌐 Socials:
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-teja-devi/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devisuryateja823@gmail.com)
+
+</div>
 
 
 # 💻 Tech Stack:
